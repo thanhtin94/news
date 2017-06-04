@@ -1,0 +1,3 @@
+<?php
+	$Tv->formthemthanhvien(); 
+?>

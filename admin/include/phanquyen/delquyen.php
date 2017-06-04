@@ -1,0 +1,3 @@
+<?php 
+$Pq->xoaquyen();
+ ?>
